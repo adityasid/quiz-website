@@ -5,3 +5,5 @@
 
 **Created with HTML, CSS and JavaScript**
 
+https://adityasid.github.io/quiz-website/index.html
+
